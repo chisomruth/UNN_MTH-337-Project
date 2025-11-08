@@ -49,7 +49,7 @@ Results saved in `cnn_results/` and `mlp_results/`:
 
 - Python 3.8+
 - TensorFlow 2.10+
-- GPU recommended (but not required)
+- GPU recommended (but not required).
 
 ## Troubleshooting
 
