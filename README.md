@@ -30,7 +30,7 @@ cd MLP
 python mlp_experiments.py
 ```
 
-## The Experiment Runs does the following:
+## The Experiment runs does the following:
 
 - Tests 4 optimizers × 4 learning rates = 16 configurations
 - Saves trained models and training history
