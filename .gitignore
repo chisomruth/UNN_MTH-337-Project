@@ -1,0 +1,11 @@
+**/*.keras
+**/*.pkl
+**/*.json
+Datasets/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env/
+venv/
